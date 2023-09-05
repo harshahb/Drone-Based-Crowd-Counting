@@ -30,3 +30,6 @@ The model can also be used to predict crowd counts for static images.
 _Ensure that you have the required dataset, such as images and their corresponding crowd count annotations, to train and test the model._
 _You can adjust hyperparameters like batch size, learning rate, and the number of training epochs to fine-tune the model's performance._
 _Overall, this project provides a foundation for building a crowd counting system using deep learning, which can be useful in various applications like crowd management, event planning, and more._
+
+
+The Training and Test datasets can be found here : https://www.kaggle.com/datasets/tthien/shanghaitech/download?datasetVersionNumber=1
